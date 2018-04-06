@@ -53,8 +53,5 @@ public class CreateCommentActivity extends AppCompatActivity {
             }
         });
 
-        //spLoisirs.setVisibility(View.GONE);
-        //Book book = (Book)spBooks.getSelectedItem();
-
     }
 }

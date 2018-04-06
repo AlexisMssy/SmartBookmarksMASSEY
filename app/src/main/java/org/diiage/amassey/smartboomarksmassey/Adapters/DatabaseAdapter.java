@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class DatabaseAdapter extends SQLiteOpenHelper {
     public static final int DATABASE_VERSION = 1;
-    public static final String DATABASE_NAME = "smartbookmarksvolkov.db";
+    public static final String DATABASE_NAME = "smartbookmarkmassey.db";
 
     Context newContext;
 
